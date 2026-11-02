@@ -1,5 +1,7 @@
 # ambitious-ai
 
+**English** | [简体中文](README.zh-CN.md)
+
 A Claude skill that reframes your task into a more ambitious version before executing it.
 
 Most people use AI to execute the first solution they guessed — "fix this bug", "fill this template", "make this chart". This skill pushes the task up to the goal it actually serves, based on the methodology distilled from an Anthropic engineer's tutorial on using AI with more ambition.
