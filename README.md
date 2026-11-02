@@ -48,6 +48,8 @@ The skill will show you a ladder (L0 literal → L3 redesign the mechanism) and 
 
 **Just want the prompts?** See [references/prompts.md](references/prompts.md) for ready-to-paste reframing prompts and worked examples.
 
+**Want ladders for your domain?** See [references/scenarios.md](references/scenarios.md) — worked templates for learning, personal decisions, code review, system design, writing, and meetings.
+
 ## When it stays out of the way
 
 Fact lookups, one-line edits, fire-and-forget tasks — ambition has a cost, and this skill won't force it on quick answers.

@@ -34,7 +34,7 @@ git clone https://github.com/ychen-z/ambitious-ai.git ~/.claude/skills/ambitious
 
 ## 具体案例使用说明
 
-以下四个案例展示了 skill 的完整工作方式：你说什么 → skill 给出什么 → 你选哪一档 → 得到什么。
+以下四个案例展示了 skill 的完整工作方式：你说什么 → skill 给出什么 → 你选哪一档 → 得到什么。更多领域模板（学习/读书、个人决策、code review、系统设计、写作、会议纪要）见 [references/scenarios.md](references/scenarios.md)。
 
 ### 案例 1：季度汇报 PPT（拉高视角）
 
@@ -121,6 +121,7 @@ git clone https://github.com/ychen-z/ambitious-ai.git ~/.claude/skills/ambitious
 - **自动**：给出一个"是更大目标的症状"的任务，如上面 4 个案例的输入
 - **手动**：`用 ambitious-ai 帮我重构这个任务：<你的任务>`
 - **只要提示词**：直接查看 [references/prompts.md](references/prompts.md)
+- **要你所在领域的阶梯模板**：查看 [references/scenarios.md](references/scenarios.md)——学习、决策、code review、系统设计、写作、会议六大场景
 
 ## License
 

@@ -22,7 +22,7 @@ Do NOT force this when the user needs a quick, literal answer (a fact lookup, a 
 1. **Restate the literal task**, then ask: "What outcome does this task actually serve?" Climb one or more levels up the goal chain.
 2. **Pick the relevant lever(s)** below. They compose—use more than one when it helps.
 3. **Check preconditions** (see below). Ambitious work usually requires real tools and real data access, not just cleverer wording.
-4. **Propose the reframed task to the user before executing** when the scope materially expands. Show them the ladder of options (literal → ambitious) and let them choose the rung.
+4. **Propose the ladder before executing** when scope materially expands. For each rung state: the deliverable, the effort, and what would verify it. Mark your recommended rung (see discipline below) and justify it in one sentence. Add a one-line teach-back: why the literal task is a symptom of the bigger goal—this is how the user learns to reframe without the skill.
 5. **Execute**, then verify with an *external* check—never let the model grade its own homework.
 
 ## The three levers
@@ -62,8 +62,15 @@ Ambitious work is usually gated by capability, not wording. Before executing, en
 
 If these are missing, the first ambitious step is to set them up.
 
-## Reusable prompts and worked examples
-For ready-to-paste reframing prompts and fully worked example ladders, see [references/prompts.md](references/prompts.md).
+## Ladder discipline
+- Recommend the **lowest rung that changes a downstream decision or meeting**. Anything higher adds ambition without changing what happens next.
+- Reserve L3 (redesign the mechanism) for **recurring tasks**—one-off work rarely pays back process redesign.
+- When the user is time-pressed, recommend L1 and note that higher rungs exist. Don't force the climb.
+- Route by domain: for learning, personal decisions, code review, system design, writing, or meetings, consult [references/scenarios.md](references/scenarios.md) for a worked ladder template. Adapt it to the actual task; do not recite it.
+
+## Reusable prompts and scenario library
+- Ready-to-paste reframing prompts and worked ladders: [references/prompts.md](references/prompts.md)
+- Domain-specific ladder templates (learning, decisions, code review, system design, writing, meetings): [references/scenarios.md](references/scenarios.md)
 
 ## Mindset note
 Capability often tracks what a person believes is possible (self-efficacy). AI's ceiling rises every few weeks; our mental model of "what I can do" lags. When scoping, deliberately push past the first self-imposed limit.
